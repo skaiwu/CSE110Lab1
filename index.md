@@ -24,14 +24,18 @@ Currently, these are the languages I have and haven't used.
 My name **Xi-Kai Wu**, but I go by **Kai Wu**.  Honestly, I don't really care about *mountains*, and I have
 literally *always* avoid hiking because, well, I don't really care for it.  Below, I will list some of my
 hobbies.
--Basketball
--Football
--Anime
--Gyming
+- Basketball
+- Football
+- Anime
+- Gyming
+
+
 If I had to rank my favorite colleges in UCSD, it would be something like this.
 1. New Sixth
 2. Warren
 3. Literally every other college
+
+
 If you wanna know a really big secret, check this out [Big Secret](Secret.md)
 In the words of me
 >Sixth is goated, Warren is my school, and who cares about the rest
