@@ -1,4 +1,15 @@
 # Kai's Personal Page
+## Table of Contents
+[Images](#Images)
+
+
+[Who I am as a Programmer](#Who-I-am-as-a-Programmer)
+
+
+[Who I am as a Person](#Who-I-am-as-a-Person)
+
+
+
 ## Images
 ### The Rockies
 ![This is the first image of the Rockies](Rockies1.jpg)
